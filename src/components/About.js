@@ -2,7 +2,7 @@ import React from "react";
 import Links from "./Links.js";
 
 export default function About({bio,github,linkedin}) {
-//  console.log(github);
+
   return (
     <div id="about">
 
